@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Anamika Dhar (Anameeks)
+#  Maps make me emotional. Airports make me dream.
+I’m not chasing destinations — I’m chasing moments: a song playing in a stranger’s car, rain in a new city, a late-night walk with no direction.
+I’m Anamika — and I collect moments, not magnets
 
 🎓 Student at UAP | 💻 Aspiring Web Developer & Programmer | ✍️ Writer & Explorer
 
