@@ -1,6 +1,12 @@
 <!-- 👑 HEADER BANNER -->
+
+
+<h1 align="center">🌍 Anamika — A Roamer of & Cities</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there!+I'm+Anamika+Dhar+🌸;Roamer+%7C+Coder+%7C+Explorer+%7C+Writer" alt="Typing SVG" />
+  <i>Maps make me emotional. Airports make me dream.</i><br>
+  <i>I'm not chasing destinations — I'm chasing moments: a song in a stranger’s car, rain in a new city, a late-night walk with no direction.</i><br>
+  <strong>“I collect moments, not magnets.”</strong>
 </p>
 
 ---
