@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I knowledge about **Python**, **Django**, **C**, **Java**, and **Web Development**
+- 🔭 I have knowledge about **Python**, **Django**, **C**, **Java**, and **Web Development**
 - 📚 Passionate about building projects and sharing knowledge
 
 
