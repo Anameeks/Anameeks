@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Anamika Dhar (Anameeks)
 
-<!--
-**Anameeks/Anameeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at UAP | 💻 Aspiring Web Developer & Programmer | ✍️ Writer & Explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me:
+- 🔭 I knowledge about **Python**, **Django**, **C**, **Java**, and **Web Development**
+- 📚 Passionate about building projects and sharing knowledge
+
+
+---
+
+### 🛠️ Skills & Tools:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+![Anameeks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anameeks&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me:
+- 📧 Email: anamikadhar02@gmail.com 
+
+
+---
+
+> “Come on Heart, Make an Effort.” ❤️
