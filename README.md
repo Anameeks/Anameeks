@@ -18,7 +18,6 @@
 - 💻 Aspiring **Web Developer** & **Programmer**
 - ✍️ Passionate **Writer** & Curious **Explorer**
 - 🌱 Currently learning: Django + Java + Life
-- 🗺️ I collect moments, not magnets.
 - 💌 Reach me: **anamikadhar02@gmail.com**
 
 ---
