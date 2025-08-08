@@ -1,7 +1,7 @@
 <!-- 👑 HEADER BANNER -->
 
 
-<h1 align="center">🌍 Anamika — A Roamer of & Cities</h1>
+<h1 align="center">🌍 Anamika — A Roamer of Cities</h1>
 
 <p align="center">
   <i>Maps make me emotional. Airports make me dream.</i><br>
