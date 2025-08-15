@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CSS Rose Flower</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #ffe4e1;
+    margin: 0;
+  }
+
+  .rose {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    animation: spin 20s linear infinite;
+  }
+
+  .petal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle at 30% 30%, #ff4d6d, #c70039);
+    border-radius: 50% 50% 0 50%;
+    transform-origin: bottom right;
+    animation: bloom 2s ease-out forwards;
+  }
+
+  /* Multiple petals in layers */
+  .petal:nth-child(1) { transform: rotate(0deg) translate(-50%, -50%); }
+  .petal:nth-child(2) { transform: rotate(45deg) translate(-50%, -50%); }
+  .petal:nth-child(3) { transform: rotate(90deg) translate(-50%, -50%); }
+  .petal:nth-child(4) { transform: rotate(135deg) translate(-50%, -50%); }
+  .petal:nth-child(5) { transform: rotate(180deg) translate(-50%, -50%); }
+  .petal:nth-child(6) { transform: rotate(225deg) translate(-50%, -50%); }
+  .petal:nth-child(7) { transform: rotate(270deg) translate(-50%, -50%); }
+  .petal:nth-child(8) { transform: rotate(315deg) translate(-50%, -50%); }
+
+  /* Inner smaller petals for rose layers */
+  .inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 70px;
+    height: 70px;
+    background: radial-gradient(circle at 30% 30%, #ff4d6d, #900c3f);
+    border-radius: 50% 50% 0 50%;
+    transform-origin: bottom right;
+  }
+
+  .inner:nth-child(9) { transform: rotate(0deg) translate(-50%, -50%); }
+  .inner:nth-child(10) { transform: rotate(60deg) translate(-50%, -50%); }
+  .inner:nth-child(11) { transform: rotate(120deg) translate(-50%, -50%); }
+  .inner:nth-child(12) { transform: rotate(180deg) translate(-50%, -50%); }
+  .inner:nth-child(13) { transform: rotate(240deg) translate(-50%, -50%); }
+  .inner:nth-child(14) { transform: rotate(300deg) translate(-50%, -50%); }
+
+  /* Rose center */
+  .center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    background: radial-gradient(circle, #ff4d6d, #581845);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  /* Bloom animation */
+  @keyframes bloom {
+    0% { transform: scale(0) rotate(var(--angle)); opacity: 0; }
+    100% { transform: scale(1) rotate(var(--angle)); opacity: 1; }
+  }
+
+  /* Optional spinning effect */
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+</head>
+<body>
+
+<div class="rose">
+  <!-- Outer petals -->
+  <div class="petal"></div>
+  <div class="petal"></div>
+  <div class="petal"></div>
+  <div class="petal"></div>
+  <div class="petal"></div>
+  <div class="petal"></div>
+  <div class="petal"></div>
+  <div class="petal"></div>
+
+  <!-- Inner petals -->
+  <div class="inner"></div>
+  <div class="inner"></div>
+  <div class="inner"></div>
+  <div class="inner"></div>
+  <div class="inner"></div>
+  <div class="inner"></div>
+
+  <!-- Center -->
+  <div class="center"></div>
+</div>
+
+</body>
+</html>
