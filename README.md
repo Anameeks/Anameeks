@@ -6,7 +6,7 @@
 <p align="center">
   <i>Maps make me emotional. Airports make me dream.</i><br>
   <i>I'm not chasing destinations — I'm chasing moments: a song in a stranger’s car, rain in a new city, a late-night walk with no direction.</i><br>
-  <strong>“I collect moments, not magnets.”</strong>
+ 
 </p>
 
 ---
