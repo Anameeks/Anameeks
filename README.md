@@ -16,8 +16,8 @@
 ### 👩‍💻 About Me
 - 🎓 Student at **University of Asia Pacific (UAP)**
 - 💻 Aspiring **Web Developer** & **Programmer**
-- ✍️ Passionate **Writer** & Curious **Explorer**
-- 🌱 Currently learning: Django + Java + Life
+- ✍️ Curious **Explorer**
+- 🌱 Currently learning: Life
 - 💌 Reach me: **anamikadhar02@gmail.com**
 
 ---
