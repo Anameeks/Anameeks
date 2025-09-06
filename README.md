@@ -96,9 +96,6 @@ Here are a few cool things I’ve worked on 👇
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/anameeks/anameeks/blob/output/github-contribution-grid-snake.svg)
 
----
 
 > “Come on Heart, Make an Effort.” ❤️
