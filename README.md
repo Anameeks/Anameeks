@@ -1,4 +1,4 @@
-<!-- 👑 HEADER BANNER -->
+
 
 
 <h1 align="center">🌍 Anamika — A Roamer of Cities</h1>
