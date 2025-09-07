@@ -39,13 +39,9 @@
 ### 📌 Featured Projects
 Here are a few cool things I’ve worked on 👇
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🌐 **UAP Job & Internship Finder** | A Django-based social media site for UAP students to find jobs, research & internships. | Django, Python, SQLite |
-| 🧾 **Feedback Collector App** | A simple feedback form and display app for learning Django basics. | Django, HTML, CSS |
-| 📚 **Student Profile System** | System to manage student info and academic records. | Python, MySQL |
 
----
+
+
 
 ### 🧠 GitHub Stats
 <p align="center">
